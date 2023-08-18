@@ -1,7 +1,7 @@
 # Welcome to ketion's GitHub
 
 # 💫 About Me:
-我是ketion✨🏆<br>🔭 计算机专业24届毕业生<br>🌱 Java选手<br>💬 邮箱：1583563833@qq.com，欢迎交流<br>💌 喜欢编程，热爱分享
+我是ketion✨🏆<br>🔭 计算机科学与技术24届毕业生<br>🌱 Java选手<br>💬 邮箱：1583563833@qq.com，欢迎交流<br>💌 喜欢编程，热爱分享
 
 
 # 💻 Tech Stack:
